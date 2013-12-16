@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/aerogear/aerogear-controller-demo.png?branch=jaxrs)](https://travis-ci.org/aerogear/aerogear-controller-demo)
+[![Build Status](https://travis-ci.org/aerogear/aerogear-jaxrs-demo.png?branch=master)](https://travis-ci.org/aerogear/aerogear-jaxrs-demo)
 
 # AeroGear JAXRS Demo
 
